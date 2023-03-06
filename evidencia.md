@@ -1,6 +1,6 @@
 # Actividad integradora - Sistemas multiagentes
 
-Samantha Sofía Bautista Gauna
+Samantha Sofía Bautista Gauna - A01284462
 
 [Github](https://github.com/samsbg/multiagentesEvidencia)
 
@@ -8,7 +8,7 @@ Samantha Sofía Bautista Gauna
 
 ### Describe la situación y/o problema a simular
 
-La situación que se está tratando de simular es la limpieza de un espacio a traves de robots que limpian (roombas). Desde el principio las variables de la simulación, como son las dimensiones, cantidad de robots, porcetanje de suciedad y tiempo total maximo, son determinados por el usuario y el modelo continua hasta que el espacio se encuentre completamente limpio o el tiempo total maximo se haya superado.
+La situación que se está tratando de simular es la limpieza de un espacio a traves de robots que limpian (roombas). Desde el principio las variables de la simulación, como son las dimensiones, cantidad de robots, porcentaje de suciedad y tiempo total máximo, son determinados por el usuario y el modelo continua hasta que el espacio se encuentre completamente limpio o el tiempo total máximo se haya superado.
 
 ### Describe los agentes involucrados así como sus acciones o percepciones
 
